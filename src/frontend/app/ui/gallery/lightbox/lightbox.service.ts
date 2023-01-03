@@ -6,6 +6,6 @@ import {Injectable} from '@angular/core';
 export class LightboxService {
   public captionAlwaysOn = false;
   public facesAlwaysOn = false;
-  public loopVideos = false;
+  public loopVideos = true;
 
 }
